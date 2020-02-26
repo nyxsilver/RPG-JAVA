@@ -1,0 +1,29 @@
+NomSalle: Le Jardin du chateau en ruine
+Numero: 1
+Desc: Tu te retrouves en plein milieu du jardin de l'ancien chateau.
+Desc: Tout autour de toi se trouvent des decombres.  
+Desc: C'etait par le passee, une majestueuse entree juste devant vous au Nord.
+Exit: Nord 2
+NomSalle: L'entree du chateau
+Numero: 2
+Desc: A peine passe, ce qui servait de porte d'entree n'est plus que quelques bouts de bois a terre gondole par les aleas du temps.
+Desc: Tu vois des traces de sang sechee un peu eparpillee partout.
+Desc: Continuons a Est.
+Exit: est 3
+Exit: Sud 1
+NomSalle: La salle de reception
+Numero: 3
+Desc: Une magnifique salle de bal avec une majestueuse table encore dressee de la derniere reception.
+Desc: Quelque chose c'est mal passee, c'est sur. Une grande porte en fer Noir trone dans la piece d'en face.
+Desc: Allons voir ca de plus pres.
+Exit: Nord 4
+Exit: Ouest 2
+NomSalle: Les catacombes
+Numero: 4
+Desc: Apres la porte en fer, un long couloir sombre qui descends tres profondement.
+Desc: Des cranes hornent le couloir, des torches au mur rendent les lieux encore plus glauques. 
+Desc: Descendons! (Est)
+Exit: est 5
+Exit: Sud 3
+NomSalle: Le cimetiere cache
+Numero: 5

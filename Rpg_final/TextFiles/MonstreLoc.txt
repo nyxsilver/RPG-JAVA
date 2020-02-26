@@ -1,0 +1,5 @@
+Name: Cactuar 2
+Name: Behemoth 3
+Name: Duck 1
+Name: Nidhogg 4
+Name: Byakko 5
